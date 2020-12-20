@@ -3,4 +3,4 @@
 
 Вспомогательные программы - в папках California Housing и MNIST.
 
-Основные - в папке Arrythmia.
+Основные - в папке Arrhythmia.
