@@ -5,4 +5,4 @@
 
 Основные - в папке Arrhythmia.
 
-Также в папке Arrhythmia появились файлы китайского датасета и датасета PTB-XL.
+Также в "Arrhythmia/ElPiGraph visualisation" появились файлы китайского датасета и датасета PTB-XL.
